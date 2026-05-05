@@ -1,6 +1,7 @@
 # Coffee-Shop-Management-System
 
 **DỰ ÁN HỆ THỐNG QUẢN LÝ BÁN CÀ PHÊ - TEAM JESPIRE**
+
 **Chức năng hệ thống:**
 > Nhân Viên:
 - Nhận Order khách hàng, chỉnh số lượng đường, đá và thêm vào cart
@@ -23,7 +24,6 @@
 
 **Đóng góp bởi:**
 
-- ThS. Nguyễn Văn Thắng (Assistant Lecturer)
 - Trần Ngọc Tân (Team Leader)
 - Đỗ Thanh Tiến (Vice Team Leader)
 - Võ Văn Tuấn
