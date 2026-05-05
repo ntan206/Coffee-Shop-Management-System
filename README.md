@@ -29,3 +29,9 @@
 - Võ Văn Tuấn
 - Trần Cao Ti
 - Nguyễn Thành Tài
+
+**Tham khảo từ:**
+
+- AI Model (ChatGPT/Gemini v.v)
+- W3School
+- Youtube
