@@ -20,6 +20,7 @@
 - Java (Ngôn Ngữ Lập Trình - Thiết Kế Front End và Back - End)
 - SQL (Ngôn Ngữ Truy Vấn - SQL Server hoặc MYSQL Server)
 - Add-on khác như PDF, JDBC, MYSQL JDBC, Flatfile.
+
 **Đóng góp bởi:**
 
 - ThS. Nguyễn Văn Thắng (Assistant Lecturer)
